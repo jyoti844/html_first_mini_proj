@@ -1,0 +1,36 @@
+HEADING TAG-->(h1 h2 h3 h4 h5 h6)--> <h>--</h>
+PARAGRAPH TAG --> ;<P>--</P>
+BR TAG -->Line break ;<br>--</br>
+HR TAG -->give a horizontal line ,acts as a divider, <hr>-- </hr>
+IMAGE TAG --> <img src=" link " alt= "text" fix height and width="value">
+VIDEO TAG --> <video src="link" height &width="">
+ANCHOR TAG --> <a href="link" target="_blank -->open link in new page>
+                                     "_self  -->open link on same page>
+                                    NAME </a>
+BOLD /ITALIC /UNDERLINE TAG -->
+                               <b> makes text BOLD
+                              <i> makes text ITALIC
+                              <u> makes text UNDERLINE 
+PER TAG --><pre>--</pre> ;type text with space 
+BIG/SMALL TAG -->
+                 <big> increase text size
+                 <small> decrease text size    
+SUPERSCRIPT /SUBSCRIPT --> ()<sup>()</sup>
+                       -->()<sub> ()</sub>
+LIST TAG --> 
+           orderdlist--><ol><li>--</li></ol>
+           unorderdlist--><ul><li>--</li></ul> 
+DIV AND SPAN --><div>:Block-level container  
+                <span>:inline 
+TABLE TAGS --><table>
+                <tr>
+                    <th>---</th>
+                    <th>--</th>
+                </tr>
+                <tr>
+                     <td>---</td>
+                     <tb>---</tb>
+                </tr>
+FORM TAGS-->
+           <form action="">
+                
